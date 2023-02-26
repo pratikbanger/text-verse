@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/text-utility-react-app/static/css/main.3d6e961e.css",
-    "main.js": "/text-utility-react-app/static/js/main.e160c59b.js",
-    "static/js/787.0cbdef75.chunk.js": "/text-utility-react-app/static/js/787.0cbdef75.chunk.js",
-    "index.html": "/text-utility-react-app/index.html",
-    "main.3d6e961e.css.map": "/text-utility-react-app/static/css/main.3d6e961e.css.map",
-    "main.e160c59b.js.map": "/text-utility-react-app/static/js/main.e160c59b.js.map",
-    "787.0cbdef75.chunk.js.map": "/text-utility-react-app/static/js/787.0cbdef75.chunk.js.map"
+    "main.css": "/text-verse/static/css/main.3d6e961e.css",
+    "main.js": "/text-verse/static/js/main.14eae0ee.js",
+    "static/js/787.0cbdef75.chunk.js": "/text-verse/static/js/787.0cbdef75.chunk.js",
+    "index.html": "/text-verse/index.html",
+    "main.3d6e961e.css.map": "/text-verse/static/css/main.3d6e961e.css.map",
+    "main.14eae0ee.js.map": "/text-verse/static/js/main.14eae0ee.js.map",
+    "787.0cbdef75.chunk.js.map": "/text-verse/static/js/787.0cbdef75.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3d6e961e.css",
-    "static/js/main.e160c59b.js"
+    "static/js/main.14eae0ee.js"
   ]
 }
